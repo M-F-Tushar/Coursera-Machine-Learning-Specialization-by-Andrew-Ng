@@ -38,7 +38,7 @@ This is a live and evolving project. I'm updating as I move through the speciali
 
 Feel free to reach out or connect:
 
-- GitHub: [yourusername](https://github.com/M-F-Tushar)
+- GitHub: [M-F-Tushar](https://github.com/M-F-Tushar)
 - LinkedIn: [your-profile-link]
 
 ---
