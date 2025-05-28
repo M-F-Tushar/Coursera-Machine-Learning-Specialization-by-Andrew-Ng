@@ -39,7 +39,6 @@ This is a live and evolving project. I'm updating as I move through the speciali
 Feel free to reach out or connect:
 
 - GitHub: [M-F-Tushar](https://github.com/M-F-Tushar)
-- LinkedIn: [your-profile-link]
 
 ---
 
